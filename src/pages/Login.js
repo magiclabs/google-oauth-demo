@@ -15,7 +15,7 @@ const Login = () => {
 
   return (
     <div className="container">
-      <h1>Magic Auth + Google</h1>
+      <h1>Magic + Google</h1>
       <button onClick={handleSocialLogin}>
         <FcGoogle size={"2.5rem"} />
         Log in with Google
